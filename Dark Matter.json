@@ -28,6 +28,13 @@
         "link_500": -14308632,
         "primary_dark_300": -8421248
     },
-    "drawable_tints": {},
+    "drawable_tints": {
+    	"ic_sidebar_notifications_off_dark_24dp": -8421248,
+        "ic_sidebar_notifications_on_dark_24dp": -8421248,
+        "ic_sidebar_pins_on_dark_24dp": -8421248,
+        "ic_sidebar_pins_off_dark_24dp": -8421248,
+        "ic_sidebar_search_24dp": -8421248,
+        "ic_thread": -8421248
+    },
     "raws": {}
 }
