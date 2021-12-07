@@ -1,0 +1,33 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "name": "Dark Matter",
+        "author": "Lanney",
+        "updater": ""
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/803090285470154755\/917702664425472050\/7SbtKvw.png",
+        "overlay_alpha": 160
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/803090285470154755\/913621584420421703\/MavenPro-Bold.ttf"
+    },
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 419430400,
+        "accent": -14308632,
+        "active_channel": -15658478,
+        "mention_highlight": 553297689,
+        "input_background": 1477513746
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -1294011,
+        "primary_dark_800": -16578803,
+        "primary_700": -15328990,
+        "link": -14308632,
+        "link_500": -14308632,
+        "primary_dark_300": -8421248
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
