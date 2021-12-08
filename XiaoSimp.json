@@ -1,0 +1,54 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "name": "Xiao Simp",
+        "author": "Lanney",
+        "updater": "https://raw.githubusercontent.com/ahar2611/Xiao-Simp/main/XiaoSimp.json"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/803090285470154755\/914640921667203112\/wallpaperflare-cropped_8.jpeg",
+        "blur_radius": 1,
+        "overlay_alpha": 175
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/803090285470154755\/913621584420421703\/MavenPro-Bold.ttf"
+    },
+    "simple_colors": {
+        "background": 203239455,
+        "background_secondary": 203962918,
+        "accent": -13145785,
+        "mention_highlight": 628534640,
+        "input_background": -1944508392,
+        "statusbar": 0,
+        "active_channel": 1712731925
+    },
+    "colors": {
+        "link": -14185657,
+        "primary_dark_700": 187184676,
+        "primary_600": 825207337,
+        "primary_dark_660": -1541920744,
+        "primary_dark_800": -15393253,
+        "uikit_btn_bg_color_selector_red": -14185657,
+        "brand_new_560": -14185657,
+        "link_500": -14185657,
+        "uikit_btn_compound_color_selector_dark": -14185657,
+        "primary_700": -1777393653,
+        "primary_630": 421670941,
+        "uikit_btn_compound_color_selector_light": -13742280,
+        "primary_700_alpha_60": 408588894,
+        "uikit_settings_item_text_color_light": -14185657,
+        "brand_500_alpha_20": 608066360,
+        "primary_dark_300": -14185657,
+        "primary_dark_360": -1301117835,
+        "uikit_settings_item_text_color_dark": -1
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -14185657,
+        "ic_sidebar_notifications_on_dark_24dp": -14185657,
+        "ic_sidebar_pins_on_dark_24dp": -14185657,
+        "ic_sidebar_pins_off_dark_24dp": -14185657,
+        "ic_sidebar_search_24dp": -14185657,
+        "ic_thread": -14185657
+    },
+    "raws": {}
+}

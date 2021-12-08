@@ -1,0 +1,41 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "name": "Lake&Pines",
+        "author": "Lanney",
+        "updater": "https://raw.githubusercontent.com/ahar2611/Lake-Pines/main/Lake%26Pines.json"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/803090285470154755\/913710266976448522\/mountain3.jpg",
+        "blur_radius": 2
+    },
+    "fonts": {
+        "*": "https://cdn.discordapp.com/attachments/803090285470154755/913740992203620382/Nunito-ExtraBold.ttf"
+    },
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 385875968,
+        "input_background": 1040187393,
+        "accent": -13131116,
+        "mention_highlight": 644930997,
+        "active_channel": 2115838785
+    },
+    "colors": {
+        "link": -10191147,
+        "primary_dark_300": -16489898,
+        "primary_dark_200": -4664883,
+        "primary_dark_400": -7827310,
+        "primary_dark_800": 385875968,
+        "uikit_btn_bg_color_selector_red": -16489898,
+        "uikit_settings_item_text_color_dark": -4664881
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -16489898,
+        "ic_sidebar_notifications_on_dark_24dp": -16489898,
+        "ic_sidebar_pins_off_dark_24dp": -16489898,
+        "ic_sidebar_pins_on_dark_24dp": -16489898,
+        "ic_sidebar_search_24dp": -16489898,
+        "ic_thread": -16489898
+    },
+    "raws": {}
+}

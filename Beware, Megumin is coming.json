@@ -1,0 +1,54 @@
+{
+    "manifest": {
+        "version": "1.0.1",
+        "name": "Megumin!!!",
+        "author": "Lanney",
+        "updater": ""
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/803090285470154755\/914399097358807070\/1638080037786.jpg",
+        "overlay_alpha": 160,
+        "blur_radius": 2
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/803090285470154755\/913621584420421703\/MavenPro-Bold.ttf"
+    },
+    "simple_colors": {
+        "background": 204479773,
+        "background_secondary": 205137446,
+        "accent": -47872,
+        "mention_highlight": 837841920,
+        "input_background": 1462245400,
+        "statusbar": 0,
+        "active_channel": 418411520
+    },
+    "colors": {
+        "link": -1018880,
+        "primary_dark_700": 422126364,
+        "primary_600": 418406239,
+        "primary_dark_660": -1540876264,
+        "primary_dark_800": -1305405423,
+        "uikit_btn_bg_color_selector_red": -47872,
+        "brand_new_560": -47872,
+        "link_500": -1018880,
+        "uikit_btn_compound_color_selector_dark": -47872,
+        "primary_700": -1960831986,
+        "primary_630": 1261445661,
+        "uikit_btn_compound_color_selector_light": -1018880,
+        "primary_700_alpha_60": 395467354,
+        "uikit_settings_item_text_color_light": -1018880,
+        "brand_500_alpha_20": 609957944,
+        "primary_dark_300": -1018880,
+        "primary_dark_360": -1096132055,
+        "primary_dark_100": 2147460352
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -1018880,
+        "ic_sidebar_notifications_on_dark_24dp": -1018880,
+        "ic_sidebar_pins_on_dark_24dp": -1018880,
+        "ic_sidebar_pins_off_dark_24dp": -1018880,
+        "ic_sidebar_search_24dp": -1018880,
+        "ic_thread": -1018880
+    },
+    "raws": {}
+}

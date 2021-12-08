@@ -1,0 +1,37 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "name": "Clear Vision V6",
+        "author": "Lanney",
+        "updater": ""
+    },
+    "background": {
+        "url": "https:\/\/i.imgur.com\/eOIFmqY.jpg",
+        "overlay_alpha": 175
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/803090285470154755\/913621584420421703\/MavenPro-Bold.ttf"
+    },
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 620756992,
+        "accent": -14188314,
+        "active_channel": -2144894746,
+        "mention_highlight": 419430399
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_green": -14188314,
+        "uikit_btn_bg_color_selector_red": -14589527,
+        "primary_dark_800": -16118248,
+        "primary_dark_300": -14188570
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -14188570,
+        "ic_sidebar_notifications_on_dark_24dp": -14188570,
+        "ic_sidebar_pins_on_dark_24dp": -14188570,
+        "ic_sidebar_pins_off_dark_24dp": -14188570,
+        "ic_sidebar_search_24dp": -14188570,
+        "ic_thread": -14188570
+    },
+    "raws": {}
+}
