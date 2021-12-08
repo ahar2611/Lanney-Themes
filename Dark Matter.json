@@ -3,14 +3,14 @@
         "version": "1.0.0",
         "name": "Dark Matter",
         "author": "Lanney",
-        "updater": "https://raw.githubusercontent.com/ahar2611/Lanney-Themes/main/Dark%20Matter.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/ahar2611\/Lanney-Themes\/main\/Dark%20Matter.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/803090285470154755\/917702664425472050\/7SbtKvw.png",
-        "overlay_alpha": 161
+        "overlay_alpha": 160
     },
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/803090285470154755\/913621584420421703\/MavenPro-Bold.ttf"
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/803090285470154755\/917933708227530752\/WorkSans-SemiBold.ttf"
     },
     "simple_colors": {
         "background": 0,
@@ -29,7 +29,7 @@
         "primary_dark_300": -8421248
     },
     "drawable_tints": {
-    	"ic_sidebar_notifications_off_dark_24dp": -8421248,
+        "ic_sidebar_notifications_off_dark_24dp": -8421248,
         "ic_sidebar_notifications_on_dark_24dp": -8421248,
         "ic_sidebar_pins_on_dark_24dp": -8421248,
         "ic_sidebar_pins_off_dark_24dp": -8421248,
