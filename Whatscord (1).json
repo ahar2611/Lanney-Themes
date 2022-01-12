@@ -3,6 +3,7 @@
         "author": "Lanney",
         "name": "WhatsCord",
         "version": "1.0.0"
+        "updater": "https://raw.githubusercontent.com/ahar2611/Lanney-Themes/main/Whatscord%20(1).json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/803090285470154755\/930631462120730664\/2vfHP2A.png",
