@@ -3,7 +3,7 @@
         "author": "Lanney",
         "name": "Magenta WhatsCord",
         "version": "1.0.0",
-        "updater": ""
+        "updater": "https://raw.githubusercontent.com/ahar2611/Lanney-Themes/main/Magenta%20WhatsCord.json"
     },
     "background": {
         "overlay_alpha": 0,
