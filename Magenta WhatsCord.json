@@ -1,0 +1,56 @@
+{
+    "manifest": {
+        "author": "Lanney",
+        "name": "Magenta WhatsCord",
+        "version": "1.0.0",
+        "updater": ""
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "blur_radius": 0,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/933903142934954074\/966954021405470730\/output-onlinepngtools.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/803090285470154755\/917933708227530752\/WorkSans-SemiBold.ttf"
+    },
+    "simple_colors": {
+        "background_secondary": -13369290,
+        "background": -13369290,
+        "active_channel": -11141012,
+        "input_background": -13756616,
+        "mention_highlight": 426246312,
+        "accent": -7733080
+    },
+    "colors": {
+        "primary_dark_660": -13369290,
+        "primary_dark_800": -13369290,
+        "primary_700": -13103558,
+        "primary_660": -13369290,
+        "primary_dark_300": -6519648,
+        "uikit_settings_item_text_color_light": -7733080,
+        "uikit_btn_bg_color_selector_red": -7733080,
+        "uikit_btn_bg_color_selector_green": -7733080,
+        "uikit_btn_bg_color_selector_brand": -13303216,
+        "uikit_btn_compound_color_selector_light": -11992496,
+        "uikit_btn_compound_color_selector_dark": -7733080,
+        "abc_tint_switch_track": -1760034271,
+        "primary_dark_360": -6519648,
+        "link": -8847192,
+        "link_500": -7733080,
+        "brand_new_560": -7733080,
+        "brand_new_360": 1233453224,
+        "primary_dark_700": -12779457,
+        "primary_dark_400": -6519648,
+        "dim_foreground_material_light": -13756616
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -6519648,
+        "ic_sidebar_notifications_on_dark_24dp": -6519648,
+        "ic_sidebar_pins_on_dark_24dp": -6519648,
+        "ic_sidebar_pins_off_dark_24dp": -6519648,
+        "ic_sidebar_search_24dp": -6519648,
+        "ic_thread": -6519648,
+        "design_bottom_navigation_item_background": -13756616
+    },
+    "raws": {}
+}
