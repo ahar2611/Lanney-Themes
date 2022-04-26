@@ -3,7 +3,7 @@
         "author": "Lanney",
         "name": "Magenta WhatsCord",
         "version": "1.0.0",
-        "updater": "https://raw.githubusercontent.com/ahar2611/Lanney-Themes/main/Magenta%20WhatsCord.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/ahar2611\/Lanney-Themes\/main\/Magenta%20WhatsCord.json"
     },
     "background": {
         "overlay_alpha": 0,
@@ -41,7 +41,8 @@
         "brand_new_360": 1233453224,
         "primary_dark_700": -12779457,
         "primary_dark_400": -6519648,
-        "dim_foreground_material_light": -13756616
+        "dim_foreground_material_light": -13756616,
+        "primary_630": -13369290
     },
     "drawable_tints": {
         "ic_sidebar_notifications_off_dark_24dp": -6519648,
