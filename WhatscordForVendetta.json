@@ -1,0 +1,53 @@
+{
+    "manifest": {
+        "author": "Lanney",
+        "name": "WhatsCord",
+        "version": "1.0.0",
+        "updater": "https://raw.githubusercontent.com/ahar2611/Lanney-Themes/main/Whatscord.json"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/933903142934954074\/972343035654455326\/LargerWhatscordGreen.gif",
+        "overlay_alpha": 0,
+        "blur_radius": 0
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/803090285470154755\/917933708227530752\/WorkSans-SemiBold.ttf"
+    },
+    "simple_colors": {
+        "background_secondary": -15590622,
+        "background": -15590622,
+        "active_channel": -16753333,
+        "input_background": -14734284,
+        "mention_highlight": 419473540,
+        "accent": -16734076
+    },
+    "colors": {
+        "primary_dark_660": -14734284,
+        "primary_dark_800": -15590622,
+        "primary_700": -14734284,
+        "primary_660": -15590622,
+        "primary_dark_300": -8087904,
+        "uikit_settings_item_text_color_light": -16734076,
+        "uikit_btn_bg_color_selector_red": -16734076,
+        "uikit_btn_bg_color_selector_green": -16734076,
+        "uikit_btn_bg_color_selector_brand": -16625597,
+        "uikit_btn_compound_color_selector_light": -16625597,
+        "uikit_btn_compound_color_selector_dark": -16734076,
+        "abc_tint_switch_track": -1761468132,
+        "primary_dark_360": -8087904,
+        "link": -16734076,
+        "link_500": -16734076,
+        "brand_new_560": -12335432,
+        "brand_new_360": 1224779908,
+        "primary_dark_700": -15195608
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -8087904,
+        "ic_sidebar_notifications_on_dark_24dp": -8087904,
+        "ic_sidebar_pins_on_dark_24dp": -8087904,
+        "ic_sidebar_pins_off_dark_24dp": -8087904,
+        "ic_sidebar_search_24dp": -8087904,
+        "ic_thread": -8087904
+    },
+    "raws": {}
+}
