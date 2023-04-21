@@ -1,14 +1,19 @@
 {
-    "name": "WhatsCord",
-    "Description": "A dark green theme based on Whatsapp chat background.",
-    "spec": "2"
+    "manifest": {
+        "author": "Lanney",
+        "name": "WhatsCord",
+        "version": "1.0.0",
+        "updater": "https://raw.githubusercontent.com/ahar2611/Lanney-Themes/main/Whatscord.json"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/933903142934954074\/972343035654455326\/LargerWhatscordGreen.gif",
         "overlay_alpha": 0,
         "blur_radius": 0
     },
-    "semanticColors": {
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/803090285470154755\/917933708227530752\/WorkSans-SemiBold.ttf"
+    },
+    "simple_colors": {
         "background_secondary": -15590622,
         "background": -15590622,
         "active_channel": -16753333,
@@ -16,7 +21,7 @@
         "mention_highlight": 419473540,
         "accent": -16734076
     },
-    "rawColors": {
+    "colors": {
         "primary_dark_660": -14734284,
         "primary_dark_800": -15590622,
         "primary_700": -14734284,
