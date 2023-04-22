@@ -2,12 +2,10 @@
     "name": "WhatsCord",
     "description": "A dark green theme based on Whatsapp chat background.",
     "spec": "2",
-    "authors": [
-        {
+    "authors": {
             "name": "Lanney",
             "id": "640109602775498753"
-        }
-    ],
+        },
     "background": {
         "url": "https://cdn.discordapp.com/attachments/933903142934954074/972343035654455326/LargerWhatscordGreen.gif",
     },
@@ -38,13 +36,5 @@
         "brand_new_560": -12335432,
         "brand_new_360": 1224779908,
         "primary_dark_700": -15195608
-    },
-    "drawable_tints": {
-        "ic_sidebar_notifications_off_dark_24dp": -8087904,
-        "ic_sidebar_notifications_on_dark_24dp": -8087904,
-        "ic_sidebar_pins_on_dark_24dp": -8087904,
-        "ic_sidebar_pins_off_dark_24dp": -8087904,
-        "ic_sidebar_search_24dp": -8087904,
-        "ic_thread": -8087904
     },
 }
