@@ -1,6 +1,6 @@
 {
     "name": "WhatsCord",
-    "description": "A version of Whatsford theme from aliucord but for vendetta.",
+    "description": "A theme based on whatsapp but better than whatsapp hehe.",
     "authors": [
         {
             "name": "Lanney",
@@ -165,9 +165,9 @@
     },
   
       "background": {
-    "blur": 0,
-    "url": "https://cdn.discordapp.com/attachments/933903142934954074/972343035654455326/LargerWhatscordGreen.gif",
-    "alpha": 0
+    "blur": 0.6,
+    "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1099189661995380897/82ef73f876a5ef467a8263b694e4f0b8.jpg",
+    "alpha": 0.4
     },
-    "color": "#000000"
+    "color": "#4d4463"
 }
