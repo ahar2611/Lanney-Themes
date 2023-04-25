@@ -165,9 +165,9 @@
     },
   
       "background": {
-    "blur": 0,
+    "blur": 1,
     "url": "https://cdn.discordapp.com/attachments/933903142934954074/972343035654455326/LargerWhatscordGreen.gif",
-    "alpha": 0
+    "alpha": 1
     },
     "color": "#4d4463"
 }
