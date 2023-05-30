@@ -158,13 +158,7 @@
 
         "BACKGROUND_MODIFIER_ACCENT": [
 
-            "FFAD0037"
-
-        ],
-
-        "SCROLLBAR_THIN_TRACK": [
-
-            "transparent"
+            "#FFAD0037"
 
         ],
 
