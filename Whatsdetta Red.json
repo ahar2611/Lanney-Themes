@@ -265,5 +265,15 @@
     },
 
     "spec": 2
+    "background": {
 
+                "blur": 0,
+
+                "url": "https://cdn.discordapp.com/attachments/968259070488367114/1113160729604923432/20230530_103128.gif",
+
+                "alpha": 1,
+
+                "color": "##5d0000"
+
+        }
 }
