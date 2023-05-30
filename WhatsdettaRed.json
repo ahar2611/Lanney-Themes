@@ -183,7 +183,31 @@
         ]
 
     },
+    "rawColors": {
 
+                "BRAND_260": "#005d4b",
+
+                "BRAND_500": "#005d4b",
+
+                "BRAND_560": "#5fcbba",
+
+                "GREEN_360": "#0a5943",
+
+                "RED_400": "#0ebc85",
+
+                "YELLOW_300": "#0dbc86",
+
+                "PRIMARY_100": "#ffffff",
+
+                "PRIMARY_600": "#131b22",
+
+                "PRIMARY_630": "#131b22",
+
+                "PRIMARY_800": "#131c22",
+
+                "PRIMARY_700": "#131c22"
+
+        },
     "spec": 2,
     "background": {
 
