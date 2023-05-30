@@ -162,33 +162,17 @@
 
         ],
 
-        //"SCROLLBAR_THIN_THUMB": [
-
-            //"#2"
-
         "SCROLLBAR_THIN_TRACK": [
 
             "transparent"
 
         ],
 
-        //"SCROLLBAR_AUTO_THUMB": [
-
-            //"#DAC0B3"
-
-        //"SCROLLBAR_AUTO_TRACK": [
-
-            //"#DAC0B3"
-
         "CHANNELTEXTAREA_BACKGROUND": [
 
             "#FFFFFF"
 
         ],
-
-        //"CHANNELS_DEFAULT": [
-
-            //"#9E8376"
 
         "TEXT_LINK": [
 
@@ -201,10 +185,6 @@
             "#FF6F0000" 
             
         ],
-
-        //"KEYBOARD": [
-
-            //"#110D0A"
 
         "CHANNEL_ICON": [
 
