@@ -14,7 +14,7 @@
 
     "background": {
 
-        "url": "https://cdn.discordapp.com/attachments/968259070488367114/1113160729604923432/20230530_103128.gif",
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/968259070488367114\/1113160729604923432\/20230530_103128.gif",
 
         "blur_radius": 0,
 
@@ -30,27 +30,27 @@
 
     "simple_colors": {
 
-        "background": 204479773,
+        "background": -13432827,
 
-        "background_secondary": 205137446,
+        "background_secondary": -13432827,
 
-        "accent": -9491926,
+        "accent": -8317932,
 
         "mention_highlight": 632123504,
 
-        "input_background": 1462245400,
+        "input_background": -15004403,
 
         "statusbar": 0,
 
-        "active_channel": -1338567403
+        "active_channel": -11141120
 
     },
 
     "colors": {
 
-        "link": -9491926,
+        "link": -7012301,
 
-        "primary_dark_700": 422058008,
+        "primary_dark_700": -14876158,
 
         "primary_600": 418406239,
 
@@ -58,17 +58,17 @@
 
         "primary_dark_800": -1121775343,
 
-        "uikit_btn_bg_color_selector_red": -10813398,
+        "uikit_btn_bg_color_selector_red": -9502720,
 
         "brand_new_560": -9491926,
 
-        "link_500": -9491926,
+        "link_500": -7012301,
 
         "uikit_btn_compound_color_selector_dark": -6998731,
 
-        "primary_700": 1713376782,
+        "primary_700": -14940409,
 
-        "primary_630": 422583581,
+        "primary_630": -14940409,
 
         "uikit_btn_compound_color_selector_light": -6998731,
 
@@ -78,25 +78,29 @@
 
         "brand_500_alpha_20": 609957944,
 
-        "primary_dark_300": -9491926,
+        "primary_dark_300": -6803665,
 
-        "primary_dark_360": -8958900
+        "primary_dark_360": -6803665,
+
+        "primary_dark_100": -13892094,
+
+        "uikit_settings_item_text_color_dark": -7381410
 
     },
 
     "drawable_tints": {
 
-        "ic_sidebar_notifications_off_dark_24dp": -9491926,
+        "ic_sidebar_notifications_off_dark_24dp": -6803665,
 
-        "ic_sidebar_notifications_on_dark_24dp": -9491926,
+        "ic_sidebar_notifications_on_dark_24dp": -6803665,
 
-        "ic_sidebar_pins_on_dark_24dp": -9491926,
+        "ic_sidebar_pins_on_dark_24dp": -6803665,
 
-        "ic_sidebar_pins_off_dark_24dp": -9491926,
+        "ic_sidebar_pins_off_dark_24dp": -6803665,
 
-        "ic_sidebar_search_24dp": -9491926,
+        "ic_sidebar_search_24dp": -6803665,
 
-        "ic_thread": -9491926,
+        "ic_thread": -6803665,
 
         "abc_action_bar_item_background_material": -14606047
 
