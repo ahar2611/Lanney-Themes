@@ -30,103 +30,103 @@
 
         "HEADER_PRIMARY": [
 
-            "#FFFFFF" //done
+            "#FFFFFF"
 
         ],
 
         "HEADER_SECONDARY": [
 
-            "#FFFFFF" //done
+            "#FFFFFF"
 
         ],
 
         "TEXT_NORMAL": [
 
-            "#FFFFFF" //done
+            "#FFFFFF"
 
         ],
 
         "TEXT_MUTED": [
 
-            "#FF982F2F" //done
+            "#FF982F2F"
 
         ],
 
         "INTERACTIVE_NORMAL": [
 
-            "#FF982F2F" //done
+            "#FF982F2F"
 
         ],
 
         "INTERACTIVE_HOVER": [
 
-            "#FF982F2F" //done
+            "#FF982F2F"
 
         ],
 
         "INTERACTIVE_ACTIVE": [
 
-            "#FF982F2F" //done
+            "#FF982F2F"
 
         ],
 
         "INTERACTIVE_MUTED": [
 
-            "#FF583434" //done
+            "#FF583434"
 
         ],
 
         "BACKGROUND_PRIMARY": [
 
-            "#FF330805" //done
+            "#FF330805"
 
         ],
 
         "BACKGROUND_SECONDARY": [
 
-            "#FF330805" //done
+            "#FF330805"
 
         ],
 
         "BACKGROUND_SECONDARY_ALT": [
 
-            "#FF953535" //done
+            "#FF953535"
 
         ],
 
         "BACKGROUND_TERTIARY": [
 
-            "#FF1D0202" //done
+            "#FF1D0202"
 
         ],
 
         "BACKGROUND_ACCENT": [
 
-            "#953536" //done
+            "#953536"
 
         ],
 
         "BACKGROUND_FLOATING": [
 
-            "#FF6F0000" //done
+            "#FF6F0000"
 
         ],
 
         "BACKGROUND_MOBILE_PRIMARY": [
 
-            "#FF330805" //done
+            "#FF330805"
 
         ],
 
         "BACKGROUND_MOBILE_SECONDARY": [
 
-            "#FF330805" //done
+            "#FF330805"
 
         ],
 
         "BACKGROUND_NESTED_FLOATING": [
 
-            "#FF982F2F" //done
+            "#FF982F2F"
 
         ],
 
@@ -134,31 +134,31 @@
 
         "BACKGROUND_MESSAGE_HOVER": [
 
-            "#FF982F2F" //done
+            "#FF982F2F"
 
         ],
 
         "BACKGROUND_MODIFIER_HOVER": [
 
-            "#FF1D0202" //done
+            "#FF1D0202"
 
         ],
 
         "BACKGROUND_MODIFIER_ACTIVE": [
 
-            "#4BAD0037" //done. mention
+            "#4BAD0037"
 
         ],
 
         "BACKGROUND_MODIFIER_SELECTED": [
 
-            "#FF560000" //done
+            "#FF560000"
 
         ],
 
         "BACKGROUND_MODIFIER_ACCENT": [
 
-            "FFAD0037" //done
+            "FFAD0037"
 
         ],
 
@@ -166,11 +166,9 @@
 
             //"#2"
 
-        ],
-
         "SCROLLBAR_THIN_TRACK": [
 
-            "transparent" //done
+            "transparent"
 
         ],
 
@@ -178,17 +176,13 @@
 
             //"#DAC0B3"
 
-        ],
-
         //"SCROLLBAR_AUTO_TRACK": [
 
             //"#DAC0B3"
 
-        ],
-
         "CHANNELTEXTAREA_BACKGROUND": [
 
-            "#FFFFFF" //done
+            "#FFFFFF"
 
         ],
 
@@ -196,35 +190,31 @@
 
             //"#9E8376"
 
-        ],
-
         "TEXT_LINK": [
 
-            "#FFB8003F" //done
+            "#FFB8003F" 
 
         ],
 
         "TEXT_DANGER": [
 
-            "#FF6F0000" //done
-
+            "#FF6F0000" 
+            
         ],
 
         //"KEYBOARD": [
 
             //"#110D0A"
 
-        ],
-
         "CHANNEL_ICON": [
 
-            "#FF982F2F"  //done
+            "#FF982F2F"  
 
         ],
 
         "CHAT_BACKGROUND": [
 
-            "#FF330805" //done
+            "#FF330805" 
 
         ]
 
