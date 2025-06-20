@@ -2,11 +2,11 @@
     "manifest": {
         "author": "Lanney",
         "name": "WhatsCord",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "updater": "https://raw.githubusercontent.com/ahar2611/Lanney-Themes/main/Whatscord.json"
     },
     "background": {
-        "url": "https:\/\/cdn.discordapp.com\/attachments\/912652884959694912\/1248883077128916992\/LargerWhatscordGreen.gif",
+        "url": "https://gitlab.com/Grzesiek11/aliucord-theme-mirror/-/raw/master/assets/Whatscord/LargerWhatscordGreen.gif",
         "overlay_alpha": 0,
         "blur_radius": 0
     },
