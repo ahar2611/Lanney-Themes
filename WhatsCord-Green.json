@@ -264,7 +264,7 @@
   },
   "plus": {
     "version": "0",
-    "iconpack": "rosiecord-iconsax",
+    "iconpack": "solar-duotone",
     "customOverlays": true,
     "icons": {
       "AccessibilityIcon": "#A2B5A2",
