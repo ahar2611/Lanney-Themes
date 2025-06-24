@@ -260,7 +260,7 @@
   "background": {
     "blur": 0,
     "url": "https://gitlab.com/Grzesiek11/aliucord-theme-mirror/-/raw/master/assets/Whatscord/LargerWhatscordGreen.gif",
-    "alpha": 0
+    "alpha": 1
   },
   "plus": {
     "version": "0",
