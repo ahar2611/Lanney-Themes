@@ -8,6 +8,9 @@
     }
   ],
   "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#09141A"
+    ]
   },
   "rawColors": {
   },
