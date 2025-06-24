@@ -1,5 +1,5 @@
 {
-  "name": "WhatsCord Bpack",
+  "name": "WhatsCord Black",
   "description": "A theme inspired by WhatsApp.",
   "authors": [
     {
@@ -7,6 +7,10 @@
       "id": "640109602775498753"
     }
   ],
+  "semanticColors": {
+  },
+  "rawColors": {
+  },
   "fonts": {
     "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
     "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
