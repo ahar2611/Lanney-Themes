@@ -1,6 +1,6 @@
 {
   "name": "WhatsCord Teal",
-  "description": "A state of serene calmness with a darker, focused teal touch.",
+  "description": "A theme inspired by WhatsApp",
   "authors": [
     {
       "name": "Lanney",
@@ -258,9 +258,9 @@
     "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
   },
   "background": {
-    "blur": 0.5,
+    "blur": 0,
     "url": "https://gitlab.com/Grzesiek11/aliucord-theme-mirror/-/raw/master/assets/Whatscord/LargerWhatscordGreen.gif",
-    "alpha": 0.7
+    "alpha": 0
   },
   "plus": {
     "version": "0",
